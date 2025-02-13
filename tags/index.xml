@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ZEK | Ondersteuning en advies</title>
-    <link>https://github.com/makhlouft/zekondersteuning/tags/</link>
+    <link>https://makhlouft.github.io/zekondersteuning/tags/</link>
     <description>Recent content in Tags on ZEK | Ondersteuning en advies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-NL</language><atom:link href="https://github.com/makhlouft/zekondersteuning/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-NL</language><atom:link href="https://makhlouft.github.io/zekondersteuning/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
